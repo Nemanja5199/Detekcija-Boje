@@ -1,0 +1,2 @@
+﻿INSERT INTO Boja (R, G, B, date)
+VALUES (1, 1, 1,'2020-12-23 15:40:45');
